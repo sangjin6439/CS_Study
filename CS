@@ -1,0 +1,2 @@
+https://f-lab.kr/blog/java-backend-interview-1 - 자바 기술 면접
+면접을 위한 CS 전공지식 노트 (책)- 1회독
